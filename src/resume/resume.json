@@ -1,0 +1,145 @@
+{
+    "main": {
+      "name": "Arnold Jiang",
+      "occupation": "Software Engineer Intern",
+      "description": "I mostly work with Java and C",
+      "bio": "2nd-year Computer Science student passionate about Software Development, Full-Stack Web Development, and System Design",
+      "email": "jiangarnoldt@gmail.com",
+      "phone": "803-529-6202",
+      "website": "http://www.github.com/AJiang25",
+      "resumedownload": "../../public/jiang_arnold_resume1.pdf",
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/AJiang25",
+          "className": "fa fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/arnold-jiang-56495a164/",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/jiangarnold/",
+          "className": "fa fa-instagram"
+        }
+      ]
+    },
+    "resume": {
+      "education": [
+        {
+          "school": "Princeton University",
+          "degree": "Bachelor of Science and Engineering",
+          "description": "Majored in Computer Science"
+        }
+      ],
+      "work": [
+        {
+          "company": "Cybrilla",
+          "title": "Software Developer ",
+          "years": "May 2019 - March 2020",
+          "description": "Built a call center management application using ruby on rails and react"
+        },
+        {
+          "company": "RubyKraft, Bangalore",
+          "title": "Graduate Software Engineer",
+          "years": "March 2018 - May 2019",
+          "description": "Worked on multiple projects using rails react and electron."
+        },
+        {
+          "company": "Digital Aristotle, Bangalore",
+          "title": "Intern",
+          "years": "January 2017 - March 2017",
+          "description": "Involved in the development of AI for children’s online educaton "
+        }
+      ],
+      "skills": [
+        {
+          "name": "Java",
+          "level": "90%"
+        },
+        {
+          "name": "C",
+          "level": "70%"
+        },
+        {
+            "name": "R",
+            "level": "90%"
+          },
+        {
+          "name": "Python",
+          "level": "60%"
+        },
+        {
+          "name": "HTML",
+          "level": "50%"
+        },
+        {
+          "name": "CSS",
+          "level": "50%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "60%"
+        },
+        {
+          "name": "React",
+          "level": "60%"
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Bubble Chart",
+          "description": "React Bubble chart with help of d3.js",
+          "category": "Npm Plugin",
+          "image": "js.png",
+          "url": "https://www.npmjs.com/package/react-d3-bubble"
+        },
+        {
+          "title": "Table Boy",
+          "description": "An easy to use react table with server side pagination and server side sorting, which makes creating tables fun. No jquery dependancy",
+          "category": "Npm Plugin",
+          "image": "js.png",
+          "url": "https://www.npmjs.com/package/table-boy"
+        },
+        {
+          "title": "Just Drag",
+          "description": "A HOC which will turn wrapped elements draggable",
+          "category": "Npm Plugin",
+          "image": "js.png",
+          "url": "https://www.npmjs.com/package/just-drag"
+        },
+        {
+          "title": "Cricket Game",
+          "description": "An Incremental design workshop",
+          "category": "Ruby",
+          "image": "ruby.png",
+          "url": "https://github.com/shanshaji/Cricket"
+        },
+        {
+          "title": "Ecommerce App",
+          "description": "A basic ecommerce application",
+          "category": "Ruby",
+          "image": "ruby.png",
+          "url": "https://github.com/shanshaji/Ecommerce"
+        },
+        {
+          "title": "Mars Rover",
+          "description": "Mars Rover Problem Design",
+          "category": "Ruby",
+          "image": "ruby.png",
+          "url": "https://github.com/shanshaji/mars-rover"
+        },
+        {
+          "title": "Dragon PvP Game",
+          "description": "Local Multiplayer 2D Game",
+          "category": "Dragon Ruby",
+          "image": "dragonruby-black.png",
+          "url": "https://shanshaji.itch.io/dragon-pvp"
+        }  
+      ]
+    }
+  }
