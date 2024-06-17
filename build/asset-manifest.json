@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/website/static/css/main.32ab4d3c.css",
-    "main.js": "/website/static/js/main.26b1cd16.js",
+    "main.js": "/website/static/js/main.b89e5466.js",
     "static/media/headshot.jpg": "/website/static/media/headshot.5da866ee70bb66332739.jpg",
     "static/media/jiang_arnold_resume1.pdf": "/website/static/media/jiang_arnold_resume1.f8ba644218841e72a655.pdf",
     "index.html": "/website/index.html",
     "main.32ab4d3c.css.map": "/website/static/css/main.32ab4d3c.css.map",
-    "main.26b1cd16.js.map": "/website/static/js/main.26b1cd16.js.map"
+    "main.b89e5466.js.map": "/website/static/js/main.b89e5466.js.map"
   },
   "entrypoints": [
     "static/css/main.32ab4d3c.css",
-    "static/js/main.26b1cd16.js"
+    "static/js/main.b89e5466.js"
   ]
 }

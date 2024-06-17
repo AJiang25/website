@@ -7,9 +7,6 @@ class About extends Component {
         if (this.props.data) {
             var name = this.props.data.name;
             var bio = this.props.data.bio;
-            var city = this.probs.data.address.city;
-            var state = this.props.data.address.state;
-            var zip = this.props.data.address.zip;
             var phone = this.props.data.phone;
             var email = this.props.data.email;
         }
